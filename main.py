@@ -173,4 +173,4 @@ else:
             st.divider()
 
 # Footer
-st.caption("Prototipe Sistem Rekomendasi - Kelompok 1 Sains Data bismillah")
+st.caption("Prototipe Sistem Rekomendasi - Kelompok 1 Sains Data")
